@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Imperial+Script&family=Ruda&display=swap');
+body > header > h1{
+    font-family: 'Imperial Script', cursive;
+    text-align: center;
+}
+body > main > header > heading > h2{
+    font-family: 'Ruda', sans-serif;
+    text-align: right;
+}
+body > main > section > heading > h2{
+    font-family: 'Ruda', sans-serif;
+    text-align: right;
+}
+body > header > dl{
+    font-family: 'Crimson Pro', serif;
+}
+body > section > p{
+    font-family: 'Crimson Pro', serif;
+}
+body > section > ul{
+    font-family: 'Crimson Pro', serif;
+}
+body > section > ol{
+    font-family: 'Crimson Pro', serif;
+}
+body{
+    margin:0 auto;
+    width: 60em;
+}
+body > main{
+    background-color: rgb(214, 198, 178);
+}
+dl{
+    border: 2px dashed rgb(216, 134, 134);
+    background-color: rgb(178, 141, 147);
+}
+body > main > section > img{
+    width: 100%;
+    height: auto;
+}
+
